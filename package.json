@@ -1,0 +1,35 @@
+{
+  "name": "extract-jsx",
+  "version": "1.0.0",
+  "main": "bin/extract-image.js",
+  "bin": {
+    "image": "./bin/extract-image.js"
+  },
+  "keywords": [],
+  "files": [
+    "bin/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vn666",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vn666/extract-image.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vn666/extract-image/issues"
+  },
+  "homepage": "https://github.com/vn666/extract-image#readme",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^10.3.10",
+    "minimist": "^1.2.8"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
