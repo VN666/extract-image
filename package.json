@@ -1,5 +1,5 @@
 {
-  "name": "extract-jsx",
+  "name": "extract-image",
   "version": "1.0.0",
   "main": "bin/extract-image.js",
   "bin": {
@@ -28,7 +28,6 @@
     "glob": "^10.3.10",
     "minimist": "^1.2.8"
   },
-  "devDependencies": {},
   "engines": {
     "node": ">=14.0.0"
   }
